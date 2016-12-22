@@ -1,7 +1,6 @@
 # BOX HUNTER
 ![alt tag](https://github.com/shrobon/BoxHunter/blob/master/Unity-Box-Hunter.png)
-This game based on the Unity Roll a Ball Game and was my first assigment for the course MM806 (Virtual Reality and Telepresence)at University of Alberta. The gameplay and UI modifications have been listed below. I have hosted the basic version of this game on
-[http://shrobon.com/webgl.html] http://shrobon.com/webgl.html
+This game based on the Unity Roll a Ball Game and was my first assigment for the course MM806 (Virtual Reality and Telepresence)at University of Alberta. The gameplay and UI modifications have been listed below. I have hosted the basic version of this game on http://shrobon.com/webgl.html
 Use the arrow keys to move the ball and collect the boxes, while avoiding the capsules.
 As an improvement, i have recently ported this game for the Google Cardboard, with the ball movements being controlled using raycast.
 
